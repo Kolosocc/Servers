@@ -1,0 +1,14 @@
+G:\Three\Csh\ServerMenager\Multithreading\bin\Debug\net8.0\Multithreading.exe
+G:\Three\Csh\ServerMenager\Multithreading\bin\Debug\net8.0\Multithreading.deps.json
+G:\Three\Csh\ServerMenager\Multithreading\bin\Debug\net8.0\Multithreading.runtimeconfig.json
+G:\Three\Csh\ServerMenager\Multithreading\bin\Debug\net8.0\Multithreading.dll
+G:\Three\Csh\ServerMenager\Multithreading\bin\Debug\net8.0\Multithreading.pdb
+G:\Three\Csh\ServerMenager\Multithreading\obj\Debug\net8.0\Multithreading.GeneratedMSBuildEditorConfig.editorconfig
+G:\Three\Csh\ServerMenager\Multithreading\obj\Debug\net8.0\Multithreading.AssemblyInfoInputs.cache
+G:\Three\Csh\ServerMenager\Multithreading\obj\Debug\net8.0\Multithreading.AssemblyInfo.cs
+G:\Three\Csh\ServerMenager\Multithreading\obj\Debug\net8.0\Multithreading.csproj.CoreCompileInputs.cache
+G:\Three\Csh\ServerMenager\Multithreading\obj\Debug\net8.0\Multithreading.dll
+G:\Three\Csh\ServerMenager\Multithreading\obj\Debug\net8.0\refint\Multithreading.dll
+G:\Three\Csh\ServerMenager\Multithreading\obj\Debug\net8.0\Multithreading.pdb
+G:\Three\Csh\ServerMenager\Multithreading\obj\Debug\net8.0\Multithreading.genruntimeconfig.cache
+G:\Three\Csh\ServerMenager\Multithreading\obj\Debug\net8.0\ref\Multithreading.dll

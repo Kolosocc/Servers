@@ -1,0 +1,14 @@
+G:\Three\Csh\ServerMenager\ServerMenager\bin\Debug\net8.0\ServerMenager.exe
+G:\Three\Csh\ServerMenager\ServerMenager\bin\Debug\net8.0\ServerMenager.deps.json
+G:\Three\Csh\ServerMenager\ServerMenager\bin\Debug\net8.0\ServerMenager.runtimeconfig.json
+G:\Three\Csh\ServerMenager\ServerMenager\bin\Debug\net8.0\ServerMenager.dll
+G:\Three\Csh\ServerMenager\ServerMenager\bin\Debug\net8.0\ServerMenager.pdb
+G:\Three\Csh\ServerMenager\ServerMenager\obj\Debug\net8.0\ServerMenager.GeneratedMSBuildEditorConfig.editorconfig
+G:\Three\Csh\ServerMenager\ServerMenager\obj\Debug\net8.0\ServerMenager.AssemblyInfoInputs.cache
+G:\Three\Csh\ServerMenager\ServerMenager\obj\Debug\net8.0\ServerMenager.AssemblyInfo.cs
+G:\Three\Csh\ServerMenager\ServerMenager\obj\Debug\net8.0\ServerMenager.csproj.CoreCompileInputs.cache
+G:\Three\Csh\ServerMenager\ServerMenager\obj\Debug\net8.0\ServerMenager.dll
+G:\Three\Csh\ServerMenager\ServerMenager\obj\Debug\net8.0\refint\ServerMenager.dll
+G:\Three\Csh\ServerMenager\ServerMenager\obj\Debug\net8.0\ServerMenager.pdb
+G:\Three\Csh\ServerMenager\ServerMenager\obj\Debug\net8.0\ServerMenager.genruntimeconfig.cache
+G:\Three\Csh\ServerMenager\ServerMenager\obj\Debug\net8.0\ref\ServerMenager.dll
